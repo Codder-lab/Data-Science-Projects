@@ -6,37 +6,17 @@ Welcome to the **Data-Science-Projects** repository! This repository contains a 
 
 **Projects Included**
 1. Zomato Data Analysis Using Python
-
-    Description:  
-
-    To address our analysis, we need to respond to the subsequent inquiries:
-    
-      1. Do a greater number of restaurants provide online delivery as opposed to offline services?
-      2. Which types of restaurants are the most favored by the general public?
-      3. What price range is preferred by couples for their dinner at restaurants?
-
-    Tools:  
-  
-    **Numpy**, **Pandas**, **Matplotlib**, **Seaborn**  
-
-3. Loan Approval Prediction Using Machine Learning
-
-    Description:  
-
-    When it comes to deciding whether the applicant’s profile is relevant to be granted with loan or not, Banks have to look after many aspects.
-
-    So, here we will be using Machine Learning with Python to ease their work and predict whether the candidate’s profile is relevant or not using key features like Marital     Status, Education, Applicant Income, Credit History, etc.  
-
-    Tools:  
-
-    **Pandas**, **Numpy**, **Matplotlib**, **Seaborn**, **Sklearn**, 
+2. Loan Approval Prediction Using Machine Learning
+3. Product Sales Analysis Using Python
+4. Online Payment Fraud Detection Using Machine Learning
+5. Stock Market Comparison Analysis Using Python
 
 **Getting Started**  
 
 To get started with any of these projects, simply clone the repository and navigate to the respective project directory:  
 ```
-git clone https://github.com/yourusername/data-science-projects-collection.git  
-cd data-science-projects-collection/Project_1
+git clone https://github.com/yourusername/Data-Science-Projects
+cd Data-Science-Projects/Project-1
 ```
 
 **Installation**  
