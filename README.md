@@ -10,6 +10,7 @@ Welcome to the **Data-Science-Projects** repository! This repository contains a 
 3. Product Sales Analysis Using Python
 4. Online Payment Fraud Detection Using Machine Learning
 5. Stock Market Comparison Analysis Using Python
+6. Currency Exchange Rate Prediction using Python
 
 **Getting Started**  
 
